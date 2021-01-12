@@ -11,7 +11,7 @@ allprojects {
 
 ```
 dependencies {
-	        implementation 'com.github.kavin-tian:datepicker:Tag'
+	        implementation 'com.github.kavin-tian:datepicker:1.1.0'
 	}
 ```
 
