@@ -1,4 +1,6 @@
-参考：https://github.com/liuwan1992/CustomDatePicker
+Android 自定义日期选择控件
+
+参考：https://github.com/liuwan1992/CustomDatePicker ，感谢！
 
 依赖
 ```
