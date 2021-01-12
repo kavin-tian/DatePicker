@@ -1,4 +1,21 @@
 
+依赖
+```
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+
+```
+dependencies {
+	        implementation 'com.github.kavin-tian:datepicker:Tag'
+	}
+```
+
+
 使用
 ```
 public class MainActivity extends AppCompatActivity {
