@@ -70,8 +70,6 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * 时间戳转字符串
-     * @param timestamp 时间戳
-     * @return 格式化的日期字符串
      */
     public static String timeStamp2date(long timestamp, String pattern) {
         return new SimpleDateFormat(pattern, Locale.CHINA).format(new Date(timestamp));
