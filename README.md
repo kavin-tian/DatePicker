@@ -1,6 +1,9 @@
 Android 自定义日期选择控件
 
 参考：https://github.com/liuwan1992/CustomDatePicker ，感谢！
+在此基础上添加了，直接引入工程使用
+
+如果想修改可以导入依赖datepickerlibrary工程源码进行修改
 
 依赖
 ```
